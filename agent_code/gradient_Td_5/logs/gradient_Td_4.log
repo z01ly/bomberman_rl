@@ -1,0 +1,142 @@
+2022-03-26 13:56:42,039 [gradient_Td_4_code] INFO: Loading model from saved state.
+2022-03-26 13:56:42,607 [gradient_Td_4_code] DEBUG: [0, 3, 4]
+2022-03-26 13:56:42,607 [gradient_Td_4_code] DEBUG: False
+2022-03-26 13:56:42,607 [gradient_Td_4_code] DEBUG: False
+2022-03-26 13:56:42,607 [gradient_Td_4_code] DEBUG: Querying model for action.
+2022-03-26 13:56:42,607 [gradient_Td_4_code] DEBUG: [-5.30149891 -3.35266745 -3.36692344 -5.10655358 -5.192267    1.43640696]
+2022-03-26 13:56:42,725 [gradient_Td_4_code] DEBUG: [1, 3, 4, 5]
+2022-03-26 13:56:42,726 [gradient_Td_4_code] DEBUG: False
+2022-03-26 13:56:42,726 [gradient_Td_4_code] DEBUG: False
+2022-03-26 13:56:42,726 [gradient_Td_4_code] DEBUG: Querying model for action.
+2022-03-26 13:56:42,726 [gradient_Td_4_code] DEBUG: [-7.48816689 -6.21963268 -7.2224582  -6.64469701 -6.10228451  2.07082743]
+2022-03-26 13:56:42,815 [gradient_Td_4_code] DEBUG: [1, 3]
+2022-03-26 13:56:42,815 [gradient_Td_4_code] DEBUG: False
+2022-03-26 13:56:42,815 [gradient_Td_4_code] DEBUG: False
+2022-03-26 13:56:42,815 [gradient_Td_4_code] DEBUG: Querying model for action.
+2022-03-26 13:56:42,815 [gradient_Td_4_code] DEBUG: [-5.3179291  -3.71950976 -5.110139   -5.65405165 -9.56116201  1.30654492]
+2022-03-26 13:56:42,915 [gradient_Td_4_code] DEBUG: [0, 4]
+2022-03-26 13:56:42,916 [gradient_Td_4_code] DEBUG: False
+2022-03-26 13:56:42,916 [gradient_Td_4_code] DEBUG: False
+2022-03-26 13:56:42,916 [gradient_Td_4_code] DEBUG: Querying model for action.
+2022-03-26 13:56:42,917 [gradient_Td_4_code] DEBUG: [ -5.20882141  -5.25786041  -4.13146385 -19.42566863 -22.13556282
+   1.91577473]
+2022-03-26 13:56:43,017 [gradient_Td_4_code] DEBUG: [2, 4]
+2022-03-26 13:56:43,018 [gradient_Td_4_code] DEBUG: False
+2022-03-26 13:56:43,018 [gradient_Td_4_code] DEBUG: False
+2022-03-26 13:56:43,018 [gradient_Td_4_code] DEBUG: Querying model for action.
+2022-03-26 13:56:43,019 [gradient_Td_4_code] DEBUG: [-5.74922538 -7.94229248 -8.20728877 -8.46750104 -9.155496    2.34021305]
+2022-03-26 13:56:43,115 [gradient_Td_4_code] DEBUG: [0, 4]
+2022-03-26 13:56:43,115 [gradient_Td_4_code] DEBUG: False
+2022-03-26 13:56:43,115 [gradient_Td_4_code] DEBUG: False
+2022-03-26 13:56:43,116 [gradient_Td_4_code] DEBUG: Querying model for action.
+2022-03-26 13:56:43,116 [gradient_Td_4_code] DEBUG: [ -5.64753292  -5.41829833  -4.35016281 -19.11108048 -22.20191057
+   2.1910155 ]
+2022-03-26 13:56:43,225 [gradient_Td_4_code] DEBUG: [4]
+2022-03-26 13:56:43,225 [gradient_Td_4_code] DEBUG: False
+2022-03-26 13:56:43,226 [gradient_Td_4_code] DEBUG: False
+2022-03-26 13:56:43,226 [gradient_Td_4_code] DEBUG: Querying model for action.
+2022-03-26 13:56:43,226 [gradient_Td_4_code] DEBUG: [-6.80113326 -8.06763789 -7.65567747 -8.54690627 -7.06723427  2.34021305]
+2022-03-26 13:56:43,322 [gradient_Td_4_code] DEBUG: [2, 4]
+2022-03-26 13:56:43,322 [gradient_Td_4_code] DEBUG: False
+2022-03-26 13:56:43,322 [gradient_Td_4_code] DEBUG: False
+2022-03-26 13:56:43,323 [gradient_Td_4_code] DEBUG: Querying model for action.
+2022-03-26 13:56:43,323 [gradient_Td_4_code] DEBUG: [-5.21520642 -6.27442602 -5.21404407 -6.79090023 -7.12949236  1.44458889]
+2022-03-26 13:56:43,420 [gradient_Td_4_code] DEBUG: [0, 3, 4, 5]
+2022-03-26 13:56:43,421 [gradient_Td_4_code] DEBUG: False
+2022-03-26 13:56:43,421 [gradient_Td_4_code] DEBUG: False
+2022-03-26 13:56:43,421 [gradient_Td_4_code] DEBUG: Querying model for action.
+2022-03-26 13:56:43,421 [gradient_Td_4_code] DEBUG: [-7.33663204 -5.03917091 -5.24232043 -6.77576055 -5.27858128  2.1910155 ]
+2022-03-26 13:56:43,518 [gradient_Td_4_code] DEBUG: [0, 3]
+2022-03-26 13:56:43,519 [gradient_Td_4_code] DEBUG: True
+2022-03-26 13:56:43,519 [gradient_Td_4_code] DEBUG: False
+2022-03-26 13:56:43,519 [gradient_Td_4_code] DEBUG: Querying model for action.
+2022-03-26 13:56:43,519 [gradient_Td_4_code] DEBUG: [-6.84455831 -1.80941992 -1.82187962 -6.44438053 -9.34884149  1.43640696]
+2022-03-26 13:56:43,628 [gradient_Td_4_code] DEBUG: [3, 4]
+2022-03-26 13:56:43,628 [gradient_Td_4_code] DEBUG: False
+2022-03-26 13:56:43,628 [gradient_Td_4_code] DEBUG: False
+2022-03-26 13:56:43,629 [gradient_Td_4_code] DEBUG: Querying model for action.
+2022-03-26 13:56:43,629 [gradient_Td_4_code] DEBUG: [ -5.9368613  -12.04273255  -5.65998586 -13.05997354 -19.47931965
+   2.07082743]
+2022-03-26 13:56:43,722 [gradient_Td_4_code] DEBUG: [1, 3, 4]
+2022-03-26 13:56:43,723 [gradient_Td_4_code] DEBUG: False
+2022-03-26 13:56:43,723 [gradient_Td_4_code] DEBUG: False
+2022-03-26 13:56:43,723 [gradient_Td_4_code] DEBUG: Querying model for action.
+2022-03-26 13:56:43,723 [gradient_Td_4_code] DEBUG: [ -5.07406383 -11.61972199  -3.38568521 -12.02849573 -17.56029115
+   1.49528925]
+2022-03-26 13:56:43,823 [gradient_Td_4_code] DEBUG: [3, 4]
+2022-03-26 13:56:43,823 [gradient_Td_4_code] DEBUG: False
+2022-03-26 13:56:43,823 [gradient_Td_4_code] DEBUG: False
+2022-03-26 13:56:43,823 [gradient_Td_4_code] DEBUG: Querying model for action.
+2022-03-26 13:56:43,823 [gradient_Td_4_code] DEBUG: [ -5.68896038 -11.48711039  -5.47359247 -13.35305589 -19.2327812
+   1.78591269]
+2022-03-26 13:57:40,322 [gradient_Td_4_code] DEBUG: [0, 1, 4]
+2022-03-26 13:57:40,322 [gradient_Td_4_code] DEBUG: False
+2022-03-26 13:57:40,322 [gradient_Td_4_code] DEBUG: False
+2022-03-26 13:57:40,322 [gradient_Td_4_code] DEBUG: Querying model for action.
+2022-03-26 13:57:40,322 [gradient_Td_4_code] DEBUG: [-6.91342246 -7.62852467 -5.47546242 -5.38307962 -5.57895338  1.93632312]
+2022-03-26 13:57:40,322 [gradient_Td_4_code] DEBUG: hi
+2022-03-26 13:57:40,435 [gradient_Td_4_code] DEBUG: [0, 2, 4, 5]
+2022-03-26 13:57:40,435 [gradient_Td_4_code] DEBUG: False
+2022-03-26 13:57:40,435 [gradient_Td_4_code] DEBUG: False
+2022-03-26 13:57:40,435 [gradient_Td_4_code] DEBUG: Querying model for action.
+2022-03-26 13:57:40,436 [gradient_Td_4_code] DEBUG: [-4.24578722 -4.36143981 -3.99517579 -4.89117809 -5.34131008  1.49143404]
+2022-03-26 13:57:40,524 [gradient_Td_4_code] DEBUG: [0, 2]
+2022-03-26 13:57:40,524 [gradient_Td_4_code] DEBUG: False
+2022-03-26 13:57:40,524 [gradient_Td_4_code] DEBUG: False
+2022-03-26 13:57:40,524 [gradient_Td_4_code] DEBUG: Querying model for action.
+2022-03-26 13:57:40,524 [gradient_Td_4_code] DEBUG: [-4.8515056  -4.06907838 -3.32420424 -4.66157138 -9.42251709  1.49143404]
+2022-03-26 13:57:40,622 [gradient_Td_4_code] DEBUG: [1, 4]
+2022-03-26 13:57:40,622 [gradient_Td_4_code] DEBUG: False
+2022-03-26 13:57:40,623 [gradient_Td_4_code] DEBUG: False
+2022-03-26 13:57:40,623 [gradient_Td_4_code] DEBUG: Querying model for action.
+2022-03-26 13:57:40,623 [gradient_Td_4_code] DEBUG: [-15.92406405  -5.49498366  -7.89228659  -3.63875488 -20.40590409
+   1.92664915]
+2022-03-26 13:57:40,740 [gradient_Td_4_code] DEBUG: [3, 4]
+2022-03-26 13:57:40,740 [gradient_Td_4_code] DEBUG: False
+2022-03-26 13:57:40,740 [gradient_Td_4_code] DEBUG: False
+2022-03-26 13:57:40,741 [gradient_Td_4_code] DEBUG: Querying model for action.
+2022-03-26 13:57:40,741 [gradient_Td_4_code] DEBUG: [-7.7600767  -5.40277015 -8.06772265 -8.79267039 -9.39680703  1.58515782]
+2022-03-26 13:57:40,825 [gradient_Td_4_code] DEBUG: [1, 4]
+2022-03-26 13:57:40,825 [gradient_Td_4_code] DEBUG: False
+2022-03-26 13:57:40,826 [gradient_Td_4_code] DEBUG: False
+2022-03-26 13:57:40,826 [gradient_Td_4_code] DEBUG: Querying model for action.
+2022-03-26 13:57:40,826 [gradient_Td_4_code] DEBUG: [-15.73325346  -5.89016791  -7.85998102  -3.66026068 -20.58609479
+   1.93632312]
+2022-03-26 13:57:40,925 [gradient_Td_4_code] DEBUG: [4]
+2022-03-26 13:57:40,925 [gradient_Td_4_code] DEBUG: False
+2022-03-26 13:57:40,925 [gradient_Td_4_code] DEBUG: False
+2022-03-26 13:57:40,925 [gradient_Td_4_code] DEBUG: Querying model for action.
+2022-03-26 13:57:40,925 [gradient_Td_4_code] DEBUG: [-7.55557205 -5.47668133 -7.00732336 -6.590672   -6.55105307  1.38089253]
+2022-03-26 13:57:41,042 [gradient_Td_4_code] DEBUG: [3, 4]
+2022-03-26 13:57:41,042 [gradient_Td_4_code] DEBUG: False
+2022-03-26 13:57:41,042 [gradient_Td_4_code] DEBUG: False
+2022-03-26 13:57:41,042 [gradient_Td_4_code] DEBUG: Querying model for action.
+2022-03-26 13:57:41,042 [gradient_Td_4_code] DEBUG: [-5.9572123  -4.29402553 -5.38178362 -4.4237902  -6.66427595  0.90152476]
+2022-03-26 13:57:41,130 [gradient_Td_4_code] DEBUG: [0, 1, 4, 5]
+2022-03-26 13:57:41,130 [gradient_Td_4_code] DEBUG: False
+2022-03-26 13:57:41,130 [gradient_Td_4_code] DEBUG: False
+2022-03-26 13:57:41,130 [gradient_Td_4_code] DEBUG: Querying model for action.
+2022-03-26 13:57:41,130 [gradient_Td_4_code] DEBUG: [-7.07058039 -7.52321104 -5.53263476 -5.08852439 -5.49056951  1.5973797 ]
+2022-03-26 13:57:41,232 [gradient_Td_4_code] DEBUG: [0, 1]
+2022-03-26 13:57:41,232 [gradient_Td_4_code] DEBUG: True
+2022-03-26 13:57:41,232 [gradient_Td_4_code] DEBUG: False
+2022-03-26 13:57:41,233 [gradient_Td_4_code] DEBUG: Querying model for action.
+2022-03-26 13:57:41,233 [gradient_Td_4_code] DEBUG: [-6.55463502 -6.46426961 -1.91657254 -2.26827932 -9.17286867  0.83309719]
+2022-03-26 13:57:41,331 [gradient_Td_4_code] DEBUG: [4]
+2022-03-26 13:57:41,331 [gradient_Td_4_code] DEBUG: False
+2022-03-26 13:57:41,331 [gradient_Td_4_code] DEBUG: True
+2022-03-26 13:57:41,331 [gradient_Td_4_code] DEBUG: Querying model for action.
+2022-03-26 13:57:41,331 [gradient_Td_4_code] DEBUG: [ -5.73008164  -7.1200488   -5.79508763 -17.70905497 -25.31761351
+   1.38089253]
+2022-03-26 13:57:41,449 [gradient_Td_4_code] DEBUG: [4]
+2022-03-26 13:57:41,449 [gradient_Td_4_code] DEBUG: True
+2022-03-26 13:57:41,449 [gradient_Td_4_code] DEBUG: True
+2022-03-26 13:57:41,450 [gradient_Td_4_code] DEBUG: Querying model for action.
+2022-03-26 13:57:41,450 [gradient_Td_4_code] DEBUG: [ -4.13366001  -5.59398326  -4.13838961 -15.72525985 -25.29764698
+   0.90152476]
+2022-03-26 13:57:41,536 [gradient_Td_4_code] DEBUG: [4]
+2022-03-26 13:57:41,537 [gradient_Td_4_code] DEBUG: True
+2022-03-26 13:57:41,537 [gradient_Td_4_code] DEBUG: True
+2022-03-26 13:57:41,537 [gradient_Td_4_code] DEBUG: Querying model for action.
+2022-03-26 13:57:41,537 [gradient_Td_4_code] DEBUG: [ -4.13366001  -5.59398326  -4.13838961 -15.72525985 -25.29764698
+   0.90152476]
