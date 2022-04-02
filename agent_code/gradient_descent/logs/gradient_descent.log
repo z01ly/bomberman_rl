@@ -1,0 +1,43 @@
+2022-04-02 16:46:18,212 [gradient_descent_code] INFO: Loading model from saved state.
+2022-04-02 16:46:18,721 [gradient_descent_code] DEBUG: [0, 3, 4]
+2022-04-02 16:46:18,722 [gradient_descent_code] DEBUG: False
+2022-04-02 16:46:18,722 [gradient_descent_code] DEBUG: False
+2022-04-02 16:46:18,722 [gradient_descent_code] DEBUG: Querying model for action.
+2022-04-02 16:46:18,726 [gradient_descent_code] DEBUG: [-14.53219538   0.44359866   3.07340353 -16.08814551  -5.59143981
+ -43.6248166 ]
+2022-04-02 16:46:18,835 [gradient_descent_code] DEBUG: [1, 4, 5]
+2022-04-02 16:46:18,835 [gradient_descent_code] DEBUG: False
+2022-04-02 16:46:18,837 [gradient_descent_code] DEBUG: False
+2022-04-02 16:46:18,837 [gradient_descent_code] DEBUG: Querying model for action.
+2022-04-02 16:46:18,837 [gradient_descent_code] DEBUG: [  4.28455892   9.58959029  18.92356242  -9.86432677   0.99943988
+ -16.01418266]
+2022-04-02 16:46:18,934 [gradient_descent_code] DEBUG: [0, 3, 4, 5]
+2022-04-02 16:46:18,935 [gradient_descent_code] DEBUG: False
+2022-04-02 16:46:18,935 [gradient_descent_code] DEBUG: False
+2022-04-02 16:46:18,935 [gradient_descent_code] DEBUG: Querying model for action.
+2022-04-02 16:46:18,935 [gradient_descent_code] DEBUG: [-10.43246637   7.35061418   6.83845696 -15.3781337    4.56724354
+ -44.09219932]
+2022-04-02 16:46:19,024 [gradient_descent_code] DEBUG: [0, 3]
+2022-04-02 16:46:19,024 [gradient_descent_code] DEBUG: False
+2022-04-02 16:46:19,025 [gradient_descent_code] DEBUG: False
+2022-04-02 16:46:19,025 [gradient_descent_code] DEBUG: Querying model for action.
+2022-04-02 16:46:19,025 [gradient_descent_code] DEBUG: [-75.04671337  19.6661293   21.86560105 -74.63057821 -68.6425782
+ -44.74824169]
+2022-04-02 16:46:19,119 [gradient_descent_code] DEBUG: [4]
+2022-04-02 16:46:19,120 [gradient_descent_code] DEBUG: False
+2022-04-02 16:46:19,120 [gradient_descent_code] DEBUG: True
+2022-04-02 16:46:19,120 [gradient_descent_code] DEBUG: Querying model for action.
+2022-04-02 16:46:19,120 [gradient_descent_code] DEBUG: [  7.13046435  -5.10402946  23.45250628 -30.29012776 -90.49348286
+ -16.75424492]
+2022-04-02 16:46:19,224 [gradient_descent_code] DEBUG: [4]
+2022-04-02 16:46:19,224 [gradient_descent_code] DEBUG: False
+2022-04-02 16:46:19,224 [gradient_descent_code] DEBUG: True
+2022-04-02 16:46:19,225 [gradient_descent_code] DEBUG: Querying model for action.
+2022-04-02 16:46:19,225 [gradient_descent_code] DEBUG: [   7.89796914   -1.8226332    24.65658529  -31.30004656 -125.15946134
+  -16.47444824]
+2022-04-02 16:46:19,323 [gradient_descent_code] DEBUG: [4]
+2022-04-02 16:46:19,323 [gradient_descent_code] DEBUG: False
+2022-04-02 16:46:19,324 [gradient_descent_code] DEBUG: True
+2022-04-02 16:46:19,324 [gradient_descent_code] DEBUG: Querying model for action.
+2022-04-02 16:46:19,324 [gradient_descent_code] DEBUG: [   7.89796914   -1.8226332    24.65658529  -31.30004656 -125.15946134
+  -16.47444824]
